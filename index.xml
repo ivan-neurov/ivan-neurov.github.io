@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>BIM puslapis</title>
-    <link>https://ivan-neurov.github.io/</link>
-    <description>Recent content on BIM puslapis</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 15 Mar 2026 10:48:39 +0200</lastBuildDate>
-    <atom:link href="https://ivan-neurov.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About BIM</title>
-      <link>https://ivan-neurov.github.io/posts/about-bim/</link>
-      <pubDate>Sun, 15 Mar 2026 10:48:39 +0200</pubDate>
-      <guid>https://ivan-neurov.github.io/posts/about-bim/</guid>
-      <description>&lt;p&gt;Tai mano pirmasis Hugo puslapis apie BIM, statybą ir skaitmeninį projektavimą.&lt;/p&gt;
-&lt;p&gt;Čia atsiranda laboratorinio darbo turinys.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>BIM puslapis</title><link>https://ivan-neurov.github.io/</link><description>Recent content on BIM puslapis</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 15 Mar 2026 10:48:39 +0200</lastBuildDate><atom:link href="https://ivan-neurov.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About BIM</title><link>https://ivan-neurov.github.io/posts/about-bim/</link><pubDate>Sun, 15 Mar 2026 10:48:39 +0200</pubDate><guid>https://ivan-neurov.github.io/posts/about-bim/</guid><description>&lt;p&gt;Tai mano pirmasis Hugo puslapis apie BIM, statybą ir skaitmeninį projektavimą.&lt;/p&gt;
+&lt;p&gt;Čia atsiranda laboratorinio darbo turinys.&lt;/p&gt;</description></item></channel></rss>
