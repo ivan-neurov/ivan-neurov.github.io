@@ -1,1 +1,0 @@
-# ivan-neurov.github.io
