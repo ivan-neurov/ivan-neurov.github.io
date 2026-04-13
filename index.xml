@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>BIM puslapis</title>
-    <link>http://localhost:1313/</link>
+    <link>https://ivan-neurov.github.io/</link>
     <description>Recent content on BIM puslapis</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Apr 2026 19:08:20 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ivan-neurov.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Post</title>
-      <link>http://localhost:1313/posts/my-post/</link>
+      <title>Paveikslėlis</title>
+      <link>https://ivan-neurov.github.io/posts/my-post/</link>
       <pubDate>Mon, 13 Apr 2026 19:08:20 +0300</pubDate>
-      <guid>http://localhost:1313/posts/my-post/</guid>
+      <guid>https://ivan-neurov.github.io/posts/my-post/</guid>
       <description>&lt;p&gt;![BIM](&lt;a href=&#34;https://s3-symbol-logo.tradingview.com/magazalar--600.png&#34;&gt;https://s3-symbol-logo.tradingview.com/magazalar--600.png&lt;/a&gt;)&lt;/p&gt;</description>
     </item>
     <item>
       <title>About BIM</title>
-      <link>http://localhost:1313/posts/about-bim/</link>
+      <link>https://ivan-neurov.github.io/posts/about-bim/</link>
       <pubDate>Sun, 15 Mar 2026 10:48:39 +0200</pubDate>
-      <guid>http://localhost:1313/posts/about-bim/</guid>
+      <guid>https://ivan-neurov.github.io/posts/about-bim/</guid>
       <description>&lt;p&gt;Tai mano pirmasis Hugo puslapis apie BIM, statybą ir skaitmeninį projektavimą.&lt;/p&gt;
 &lt;p&gt;Čia atsiranda laboratorinio darbo turinys.&lt;/p&gt;</description>
     </item>
